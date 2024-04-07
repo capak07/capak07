@@ -1,16 +1,58 @@
-## Hi there 👋 <br> My Name is Atharva Kadam and I am a 3rd year Computer Science student studying at UNB 
+# Profile
+### Hi there 👋 <br> My Name is Atharva Kadam and I am a 3rd year Computer Science student studying at UNB 
 
-## Languages I use
-<p align="center">
-  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+<br></br>
+## Hobbies:
+- Football
+- Piano
+- Travelling
+
+<br></br>
+## 🔭Work
+ ### - Currently working at Introhive as an Associate Software Developer
+
+<br></br>
+## Open Source Contributions:
+<p style="display: flow;">
+  - MovieWeb https://github.com/movie-web/providers<br>
+  - Sympy https://github.com/sympy/sympy<br>
+  - CheerioJS https://github.com/cheeriojs/cheerio<br>
+  - LiChess.org https://github.com/lichess-org/lila<br>
+  - Faker https://github.com/faker-ruby/faker<br>
+  - Obsidian https://github.com/obsidianmd<br>
+  - jq https://github.com/jqlang/jq<br>
+</p>
+
+<br></br>
+## Background
+### Databases I use:
+<p style="display: flex; flex-direction: row">
+  <img src="https://github.com/capak07/capak07/blob/main/postgresql.svg" alt="html" style="vertical-align:top; height: 5%; width: 5%;">
+  <img src="https://github.com/capak07/capak07/blob/main/mariadb.svg" alt="html" style="vertical-align:top; height: 5%; width: 5%;">
+</p>
+
+### Frontend Languages I know:
+<p style="display: flex; flex-direction: row">
+  <img src="https://github.com/capak07/capak07/blob/main/angular.svg" alt="html" style="vertical-align:top; height: 5%; width: 5%;">
+  <img src="https://github.com/capak07/capak07/blob/main/javascript.svg" alt="html" style="vertical-align:top; height: 5%; width: 5%;">
+  <img src="https://github.com/capak07/capak07/blob/main/nodejs.svg" alt="html" style="vertical-align:top; height: 5%; width: 5%;">
+  <img src="https://github.com/capak07/capak07/blob/main/npm.svg" alt="html" style="vertical-align:top; height: 5%; width: 5%;">
+  <img src="https://github.com/capak07/capak07/blob/main/typescript.svg" alt="html" style="vertical-align:top; height: 5%; width: 5%;">
+  <img src="https://github.com/capak07/capak07/blob/main/react.svg" alt="html" style="vertical-align:top; height: 5%; width: 5%;">
+</p>
+
+### Backend Languages I know:
+<p style="display: flex; flex-direction: row">
+  <img src="https://github.com/capak07/capak07/blob/main/c.svg" alt="html" style="vertical-align:top; height: 5%; width: 5%;">
+  <img src="https://github.com/capak07/capak07/blob/main/java.svg" alt="html" style="vertical-align:top; height: 5%; width: 5%;">
+  <img src="https://github.com/capak07/capak07/blob/main/python.svg" alt="html" style="vertical-align:top; height: 5%; width: 5%;">
+  <img src="https://github.com/capak07/capak07/blob/main/ruby.svg" alt="html" style="vertical-align:top; height: 5%; width: 5%;">
+  <img src="https://github.com/capak07/capak07/blob/main/rails.svg" alt="html" style="vertical-align:top; height: 5%; width: 5%;">
+</p>
+
+### Others
+<p style="display: flex; flex-direction: row">
+  <img src="https://github.com/capak07/capak07/blob/main/flask.svg" alt="html" style="vertical-align:top; background-color: white; height: 5%; width: 5%;">
 </p>
 
 ### 📫Contact -
