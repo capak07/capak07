@@ -21,8 +21,8 @@
   - Faker https://github.com/faker-ruby/faker<br>
   - Obsidian https://github.com/obsidianmd<br>
   - jq https://github.com/jqlang/jq<br>
-  - langchain https://github.com/andreibondarev/langchainrb
-  - exa https://github.com/ogham/exa
+  - langchain https://github.com/andreibondarev/langchainrb<br>
+  - exa https://github.com/ogham/exa<br>
 </p>
 
 <br></br>
