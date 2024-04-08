@@ -21,6 +21,7 @@
   - Faker https://github.com/faker-ruby/faker<br>
   - Obsidian https://github.com/obsidianmd<br>
   - jq https://github.com/jqlang/jq<br>
+  - langchain https://github.com/andreibondarev/langchainrb
 </p>
 
 <br></br>
