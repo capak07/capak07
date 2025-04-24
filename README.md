@@ -13,11 +13,6 @@
   - exa https://github.com/ogham/exa<br>
 </p>
 
-### Others
-<p style="display: flex; flex-direction: row">
-  <img src="https://github.com/capak07/capak07/blob/main/flask.svg" alt="html" style="vertical-align:top; background-color: white; height: 5%; width: 5%;">
-</p>
-
 ### 📫Contact -
 - LinkedIn: www.linkedin.com/in/atharva-kadam-0a6923218
 - Email: atharvabkadam@gmail.com
