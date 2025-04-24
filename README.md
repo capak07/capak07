@@ -1,16 +1,4 @@
 # Profile
-### Hi there 👋 <br> My Name is Atharva Kadam and I am a 3rd year Computer Science student studying at UNB 
-
-<br></br>
-## Hobbies:
-- Football
-- Piano
-- Travelling
-
-<br></br>
-## 🔭Work
- ### - Currently working at Introhive as an Associate Software Developer
-
 <br></br>
 ## Open Source Contributions:
 <p style="display: flow;">
@@ -23,33 +11,6 @@
   - jq https://github.com/jqlang/jq<br>
   - langchain https://github.com/andreibondarev/langchainrb<br>
   - exa https://github.com/ogham/exa<br>
-</p>
-
-<br></br>
-## Background
-### Databases I use:
-<p style="display: flex; flex-direction: row">
-  <img src="https://github.com/capak07/capak07/blob/main/postgresql.svg" alt="html" style="vertical-align:top; height: 5%; width: 5%;">
-  <img src="https://github.com/capak07/capak07/blob/main/mariadb.svg" alt="html" style="vertical-align:top; height: 5%; width: 5%;">
-</p>
-
-### Frontend Languages I know:
-<p style="display: flex; flex-direction: row">
-  <img src="https://github.com/capak07/capak07/blob/main/angular.svg" alt="html" style="vertical-align:top; height: 5%; width: 5%;">
-  <img src="https://github.com/capak07/capak07/blob/main/javascript.svg" alt="html" style="vertical-align:top; height: 5%; width: 5%;">
-  <img src="https://github.com/capak07/capak07/blob/main/nodejs.svg" alt="html" style="vertical-align:top; height: 5%; width: 5%;">
-  <img src="https://github.com/capak07/capak07/blob/main/npm.svg" alt="html" style="vertical-align:top; height: 5%; width: 5%;">
-  <img src="https://github.com/capak07/capak07/blob/main/typescript.svg" alt="html" style="vertical-align:top; height: 5%; width: 5%;">
-  <img src="https://github.com/capak07/capak07/blob/main/react.svg" alt="html" style="vertical-align:top; height: 5%; width: 5%;">
-</p>
-
-### Backend Languages I know:
-<p style="display: flex; flex-direction: row">
-  <img src="https://github.com/capak07/capak07/blob/main/c.svg" alt="html" style="vertical-align:top; height: 5%; width: 5%;">
-  <img src="https://github.com/capak07/capak07/blob/main/java.svg" alt="html" style="vertical-align:top; height: 5%; width: 5%;">
-  <img src="https://github.com/capak07/capak07/blob/main/python.svg" alt="html" style="vertical-align:top; height: 5%; width: 5%;">
-  <img src="https://github.com/capak07/capak07/blob/main/ruby.svg" alt="html" style="vertical-align:top; height: 5%; width: 5%;">
-  <img src="https://github.com/capak07/capak07/blob/main/rails.svg" alt="html" style="vertical-align:top; height: 5%; width: 5%;">
 </p>
 
 ### Others
